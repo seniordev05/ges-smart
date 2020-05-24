@@ -1,0 +1,17 @@
+1. there are email functions on Employees/attendance, Employees/timesheet, Sales/invoices, and All policies/structure.
+they have to send mail with pdf attachment to the user email.
+but now they don't send mail to user email(this is the email address in input field).
+
+2. there is the function to register new employee on Employees/All Employees page.
+  when register new employee on the Employees/All Employees page, the user doesn't appear in the list table, but it appears only searching with Full name.
+and then, when register new employee as admin, the user has to see all data like dashbord page, Products/all products, inventory, Sales/invoices, etc.
+
+https://www.globaleesolution.com/global/
+user: gesadmin
+pass: abcd1234
+
+this is admin user info.
+so when you register as admin, you have to get all permission as above user.
+
+ps: you can check the similar function on Users page. there is also function to register new user.
+the function works well, mean that when register new user as admin or client, the user can see all data as like above user.
